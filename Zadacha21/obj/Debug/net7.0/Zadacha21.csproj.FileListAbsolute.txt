@@ -1,0 +1,15 @@
+C:\Users\kinei\OneDrive\Рабочий стол\DZ №3\DZ3\DZ3\Zadacha21\bin\Debug\net7.0\Zadacha21.exe
+C:\Users\kinei\OneDrive\Рабочий стол\DZ №3\DZ3\DZ3\Zadacha21\bin\Debug\net7.0\Zadacha21.deps.json
+C:\Users\kinei\OneDrive\Рабочий стол\DZ №3\DZ3\DZ3\Zadacha21\bin\Debug\net7.0\Zadacha21.runtimeconfig.json
+C:\Users\kinei\OneDrive\Рабочий стол\DZ №3\DZ3\DZ3\Zadacha21\bin\Debug\net7.0\Zadacha21.dll
+C:\Users\kinei\OneDrive\Рабочий стол\DZ №3\DZ3\DZ3\Zadacha21\bin\Debug\net7.0\Zadacha21.pdb
+C:\Users\kinei\OneDrive\Рабочий стол\DZ №3\DZ3\DZ3\Zadacha21\obj\Debug\net7.0\Zadacha21.csproj.AssemblyReference.cache
+C:\Users\kinei\OneDrive\Рабочий стол\DZ №3\DZ3\DZ3\Zadacha21\obj\Debug\net7.0\Zadacha21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinei\OneDrive\Рабочий стол\DZ №3\DZ3\DZ3\Zadacha21\obj\Debug\net7.0\Zadacha21.AssemblyInfoInputs.cache
+C:\Users\kinei\OneDrive\Рабочий стол\DZ №3\DZ3\DZ3\Zadacha21\obj\Debug\net7.0\Zadacha21.AssemblyInfo.cs
+C:\Users\kinei\OneDrive\Рабочий стол\DZ №3\DZ3\DZ3\Zadacha21\obj\Debug\net7.0\Zadacha21.csproj.CoreCompileInputs.cache
+C:\Users\kinei\OneDrive\Рабочий стол\DZ №3\DZ3\DZ3\Zadacha21\obj\Debug\net7.0\Zadacha21.dll
+C:\Users\kinei\OneDrive\Рабочий стол\DZ №3\DZ3\DZ3\Zadacha21\obj\Debug\net7.0\refint\Zadacha21.dll
+C:\Users\kinei\OneDrive\Рабочий стол\DZ №3\DZ3\DZ3\Zadacha21\obj\Debug\net7.0\Zadacha21.pdb
+C:\Users\kinei\OneDrive\Рабочий стол\DZ №3\DZ3\DZ3\Zadacha21\obj\Debug\net7.0\Zadacha21.genruntimeconfig.cache
+C:\Users\kinei\OneDrive\Рабочий стол\DZ №3\DZ3\DZ3\Zadacha21\obj\Debug\net7.0\ref\Zadacha21.dll
